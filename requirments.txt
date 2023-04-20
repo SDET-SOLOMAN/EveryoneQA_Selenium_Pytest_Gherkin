@@ -1,0 +1,10 @@
+In order to run my framework, you will need:
+
+allure-behave
+behave
+selenium
+webdriver-manager
+
+
+Written in :
+Selenium. Python 3, Behave
