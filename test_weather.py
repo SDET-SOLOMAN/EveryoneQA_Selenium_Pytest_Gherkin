@@ -10,7 +10,7 @@ from time import sleep
 
 def test_open_page(driver):
     driver.get("https://openweathermap.org/")
-
+    # comment
 
 def test_check_title(driver):
     print(driver.title)
